@@ -1,0 +1,1 @@
+This part combines each sensors together and make sure the wheelchair won't go back if there's andy problems detected.
