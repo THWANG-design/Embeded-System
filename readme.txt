@@ -1,0 +1,1 @@
+This is a qt project which is used to show a graphic user interface. When this is opend, wheel chair controlling system is able to work, but there is no status changing shown on the interface. It needs to be fixed.
