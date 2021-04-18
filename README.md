@@ -6,7 +6,7 @@
   -  Implementation principle
   -  Partial screenshot
 - 4. The Final Code
-- 5. Social media and git-hub Link
+- 5. Social media and contact us
 - 6. References
 
 ## Projetct Introduction
@@ -47,6 +47,14 @@ We use GPIO.23 and GPIO.24 interfaces as two obstacle detecting sensors' input. 
 *****
 ## The Final Code
 [Click here to Final Code](https://github.com/THWANG-design/Embeded-System/tree/main/code) 
+*****
+#### Contact us
+Taohan Wang 2520367w@student.gla.ac.uk
+
+- [Face book](https://www.facebook.com/wheelchair.smart) 
+- [ Twitter ](https://twitter.com/realtime_smart)
+
+
 
 
 
