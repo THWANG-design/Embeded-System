@@ -20,7 +20,9 @@ C++ language
 
 ## How it works
 *****
-|    Function    |    GPIO    |    BOARD    |    WiringPI    |
+| Function | GPIO | BOARD | WiringPI |
+| :------- |
+
 
 
 
