@@ -42,6 +42,13 @@ We use GPIO.23 and GPIO.24 interfaces as two obstacle detecting sensors' input. 
     When we push the button, the wheelchair can be controlled to move forward and backward as if they were handled by user in the real world.
     
     Finally, the wheels are controlled using GPIO.1~6. There are 5 functions to control the wheelchair to step forward, backward, turn left, right and stop. 
+    All GND and VCC inputs and wheel motors are connected to the expansion board.
+#### Partial screenshot
+*****
+## The Final Code
+
+
+
 
 
 
