@@ -7,7 +7,6 @@
   -  Partial screenshot
 - 4. The Final Code
 - 5. Social media and contact us
-- 6. References
 
 ## Projetct Introduction
 A implementation of project to use Raspberry Pi to design an intelligent wheelchair. It can not only provide users with the current weather and temperature, and could also detect the ground humidity and obstacles and give users feedback. It ensures the safety of wheelchair users.
@@ -53,7 +52,7 @@ Taohan Wang 2520367w@student.gla.ac.uk
 
 - [Face book](https://www.facebook.com/wheelchair.smart) 
 - [ Twitter ](https://twitter.com/realtime_smart)
-
+*****
 
 
 
