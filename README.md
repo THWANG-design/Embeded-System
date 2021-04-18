@@ -1,5 +1,5 @@
 # Real-time Embeded System
-#### <font size=20> Contents </font>
+#### <font size=20> <font color=red> Contents </font> </font>
 - 1. Project Introduction
 - 2. Equipment 
 - 3. How it works
