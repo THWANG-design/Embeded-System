@@ -19,7 +19,8 @@ QT 5.13
 C++ language
 
 ## How it works
-***
+*****
+|    Function    |    GPIO    |    BOARD    |    WiringPI    |
 
 
 
