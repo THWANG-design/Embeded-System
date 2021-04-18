@@ -27,7 +27,7 @@ C++ language
 | Obstacle detecting | 23 | 33 | 23 |
 | Obstacle detecting | 24 | 35 | 24 |
 | Ground detecting | 25 | 37 | 25 |
-| Dht11 | 26 |  | 32 | 26 | 26|
+| Dht11 | 26 | 32 | 26|
 
 
 
