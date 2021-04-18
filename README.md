@@ -46,7 +46,7 @@ We use GPIO.23 and GPIO.24 interfaces as two obstacle detecting sensors' input. 
 #### Partial screenshot
 *****
 ## The Final Code
-
+[Code]:http://www.baidu.com/img/bdlogo.gif "Final Code" 
 
 
 
