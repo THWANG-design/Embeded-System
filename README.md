@@ -46,7 +46,7 @@ We use GPIO.23 and GPIO.24 interfaces as two obstacle detecting sensors' input. 
 #### Partial screenshot
 *****
 ## The Final Code
-[Click here to Final Code](https://github.com/THWANG-design/Embeded-System/main) 
+[Click here to Final Code](https://github.com/THWANG-design/Embeded-System/tree/main/code) 
 
 
 
