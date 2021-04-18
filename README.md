@@ -32,7 +32,8 @@ C++ language
 We use GPIO.23 and GPIO.24 interfaces as two obstacle detecting sensors' input. When the wheelchair is blocked behind, these two sensors give input to the Pi and we read the reference to control the wheelchair to stop. If obstacles are detected, that information will be shown on the GUI. 
 #### Wet ground detecting:
     The GPIO.26 is used to detect if the ground is wet or not. 
-    When the sensor gets the wet signal, it sends that to the Pi and we command the wheelchair to stop through that signal. If ground is detected as wet, that information will be shown on the GUI. 
+    When the sensor gets the wet signal, it sends that to the Pi and we command the wheelchair to stop through that signal. 
+    If ground is detected as wet, that information will be shown on the GUI. 
     
     We have a dht11 sensor to show the temperature and humidity of the surroundings. 
     The data is shown on the GUI as integers. It reminds the user to wear suitable clothes outside. The GPIO.25 is user for dht11 sensor.
