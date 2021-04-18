@@ -14,6 +14,13 @@ A implementation of project to use Raspberry Pi to design an intelligent wheelch
 
 
 ## Equipment
+Raspberry Pi 4B
+QT 5.13
+C++ language
+
+## How it works
+***
+
 
 
 
