@@ -1,5 +1,5 @@
 # Real-time Embeded System
-#### Contents
+#### <font size=5> Contents </font>
 - 1. Project Introduction
 - 2. Equipment 
 - 3. How it works
