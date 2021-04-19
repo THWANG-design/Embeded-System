@@ -4,7 +4,7 @@
 - 2. Equipment 
 - 3. How it works
   -  Implementation principle
-  -  Partial screenshot
+  -  Demo videos
 - 4. The Final Code
 - 5. Social media and contact us
 
