@@ -53,8 +53,6 @@ We use GPIO.23 and GPIO.24 interfaces as two obstacle detecting sensors' input. 
 - The essential part is to build the infrared ranging reversing aid function. We use the infrared distance sensor to detect if there is any obstacle behind the wheelchair. If so, the wheelchair should be stopped by our system.
     [Click here to Wet decting demo video](https://twitter.com/realtime_smart/status/1384016074132258821)
 
-    
-[Click here to  decting demo video]
 
 ## The Final Code
 [Click here to Final Code](https://github.com/THWANG-design/Embeded-System/tree/main/code) 
