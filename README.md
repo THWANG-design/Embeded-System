@@ -42,13 +42,27 @@ We use GPIO.23 and GPIO.24 interfaces as two obstacle detecting sensors' input. 
     
     Finally, the wheels are controlled using GPIO.1~6. There are 5 functions to control the wheelchair to step forward, backward, turn left, right and stop. 
     All GND and VCC inputs and wheel motors are connected to the expansion board.
-#### Partial screenshot
+#### Demo video.
 *****
+- We create a function to show the temperature and humidity detected by the sensor. At the same time, we create an interface to show information. And we also made the manual mode for the system. So the reversing aid part will not work if someone pushes the wheelchair.
+    [Click here to temperature decting demo video](https://twitter.com/realtime_smart/status/1384018424637001734)
+    
+- The second part is to detect the wet ground. If there is water on the ground, it might be dangerous to the person who sits in the wheelchair. So we create this function.
+    [Click here to Wet decting demo video](https://twitter.com/realtime_smart/status/1384016938376982529)
+    
+- The essential part is to build the infrared ranging reversing aid function. We use the infrared distance sensor to detect if there is any obstacle behind the wheelchair. If so, the wheelchair should be stopped by our system.
+    [Click here to Wet decting demo video](https://twitter.com/realtime_smart/status/1384016074132258821)
+
+    
+[Click here to  decting demo video]
+
 ## The Final Code
 [Click here to Final Code](https://github.com/THWANG-design/Embeded-System/tree/main/code) 
 *****
 #### Contact us
 Taohan Wang 2520367w@student.gla.ac.uk
+    Dongyu Wang 2536502W@student.gla.ac.uk
+    Yuhao Xu    2577620X@student.gla.ac.uk
 
 - [Face book](https://www.facebook.com/wheelchair.smart) 
 - [ Twitter ](https://twitter.com/realtime_smart)
