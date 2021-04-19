@@ -60,7 +60,7 @@ We use GPIO.23 and GPIO.24 interfaces as two obstacle detecting sensors' input. 
 [Click here to Final Code](https://github.com/THWANG-design/Embeded-System/tree/main/code) 
 *****
 #### Contact us
-Taohan Wang 2520367w@student.gla.ac.uk
+    Taohan Wang 2520367w@student.gla.ac.uk
     Dongyu Wang 2536502W@student.gla.ac.uk
     Yuhao Xu    2577620X@student.gla.ac.uk
 
